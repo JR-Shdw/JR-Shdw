@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="292" viewBox="0 0 1280 292" role="img" aria-labelledby="title desc">
+<title id="title">My core toolkit</title><desc id="desc">Systems, automation, services and workflows.</desc>
+<rect x="1" y="1" width="1278" height="290" rx="16" fill="#0d1117" stroke="#21262d"/>
+<text x="32" y="41" fill="#c4b5fd" font-family="monospace" font-size="17" letter-spacing="2">TOOLS I WORK WITH</text>
+<text x="33" y="92" fill="#06b6d4" font-family="monospace" font-size="17">SYSTEMS</text>
+<text x="230" y="92" fill="#e2e8f0" font-family="monospace" font-size="21">Linux  /  Docker  /  Kubernetes  /  Proxmox</text>
+<text x="33" y="144" fill="#06b6d4" font-family="monospace" font-size="17">AUTOMATION</text>
+<text x="230" y="144" fill="#e2e8f0" font-family="monospace" font-size="21">Ansible  /  Python  /  Rust  /  Bash</text>
+<text x="33" y="196" fill="#06b6d4" font-family="monospace" font-size="17">SERVICES</text>
+<text x="230" y="196" fill="#e2e8f0" font-family="monospace" font-size="21">PostgreSQL  /  Nginx  /  HAProxy  /  WireGuard</text>
+<text x="33" y="248" fill="#06b6d4" font-family="monospace" font-size="17">WORKFLOWS</text>
+<text x="230" y="248" fill="#e2e8f0" font-family="monospace" font-size="21">Git  /  Woodpecker CI  /  OpenTofu  /  n8n</text>
+</svg>
